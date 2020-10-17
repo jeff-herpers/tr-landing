@@ -2,6 +2,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
+    letter-spacing: 1px;
     src: url("Inter-Bold.woff2") format("woff2"),
     url("Inter-Bold.woff") format("woff");
 }
